@@ -1,4 +1,3 @@
-´´´
-#YACTA app
-##Yet Another Calendar Tracking App
-~in progress~
+# YACTA app
+## Yet Another Calendar Tracking App
+### ~in progress~
